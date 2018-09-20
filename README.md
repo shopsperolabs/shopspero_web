@@ -6,6 +6,7 @@ To install and run this project, run following lines (assuming Django, npm, and 
 ```
 git clone git@github.com:shopsperolabs/shopspero_web.git
 cd shopspero_web/
+npm install
 npm run build
 
 # running the actual app
